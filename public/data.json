@@ -1,0 +1,85 @@
+{
+    "crops": [
+        {
+            "id": "1",
+            "name": "Tomato",
+            "image": "https://www.collinsdictionary.com/images/thumb/tomato_281240360_250.jpg?version=4.0.291",
+            "category": "business",
+            "newPrice": 20,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "2",
+            "name": "Onion",
+            "image": "https://5.imimg.com/data5/SELLER/Default/2022/9/HL/GM/IE/45117192/nashik-onion-250x250.jpg",
+            "category": "business",
+            "newPrice": 40,
+            "rating": 4.5,
+            "isInStock": true
+        },
+        {
+            "id": "3",
+            "name": "Chilli",
+            "image": "https://m.media-amazon.com/images/I/513kNS-WTKL.jpg",
+            "category": "motivation",
+            "newPrice": 90,
+            "rating": 4.9,
+            "isInStock": false
+        },
+        {
+            "id": "4",
+            "name": "Capscicum",
+            "image": "https://i0.wp.com/apnasabji.com/wp-content/uploads/2020/08/Apna-Sabji-Capscicum-Green.jpg?fit=800%2C1000&ssl=1",
+            "category": "motivation",
+            "newPrice": 40,
+            "rating": 4.1,
+            "isInStock": true
+        },
+        {
+            "id": "5",
+            "name": "Banana",
+            "image": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg?w=2000",
+            "category": "comics",
+            "newPrice": 40,
+            "rating": 3.2,
+            "isInStock": false
+        },
+        {
+            "id": "6",
+            "name": "Apple",
+            "image": "https://5.imimg.com/data5/AK/RA/MY-68428614/apple-1000x1000.jpg",
+            "category": "comics",
+            "newPrice": 100,
+            "rating": 2.2,
+            "isInStock": true
+        },
+        {
+            "id": "7",
+            "name": "Carrot",
+            "image": "https://frecery.com/wp-content/uploads/2021/07/71S6oQqVa5L._SL1500_.jpg",
+            "category": "comics",
+            "newPrice": 63,
+            "rating": 3.6,
+            "isInStock": true
+        },
+        {
+            "id": "8",
+            "name": "Wheat",
+            "image": "https://5.imimg.com/data5/PI/VL/MY-66556936/royal-wheat-500x500.jpg",
+            "category": "comics",
+            "newPrice": 68,
+            "rating": 2.5,
+            "isInStock": true
+        },
+        {
+            "id": "9",
+            "name": "Wheat",
+            "image": "https://5.imimg.com/data5/PI/VL/MY-66556936/royal-wheat-500x500.jpg",
+            "category": "comics",
+            "newPrice": 68,
+            "rating": 2.5,
+            "isInStock": true
+        }
+    ]
+}
