@@ -40,14 +40,10 @@ export const ProductCardHorizontal = ({product}) => {
                             <button class="count" onClick={() => handleIncrement(id)}>+</button>
                     </div>
                 </div>
-                <div class="cta-btn d-flex gap">
+                <div class="cta-btn ">
                     <div class="cta-btn">
-                        <button class="button hori-btn btn-primary btn-icon d-flex align-center justify-center gap cursor btn-margin"> Add To Cart</button>
+                        <button class="button hori-btn btn-primary btn-icon d-flex align-center justify-center gap cursor btn-margin"> Buy Now</button>
                     </div>
-                    <div class="cta-btn">
-                        <button class="button hori-btn btn-outline-primary btn-icon d-flex align-center justify-center gap cursor btn-margin">
-                        Move to ❤️</button>
-                        </div>
                 </div>
             </div>
 </div>

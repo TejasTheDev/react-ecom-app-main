@@ -19,7 +19,10 @@
 .new-price{
     font-size: 1.25rem;
 }
-
+.quantity-container, .count-container, .cta-btn{
+    position: relative;
+    bottom: 15px;
+}
 .price-strike-through,
 .discount {
     font-size: .875rem;

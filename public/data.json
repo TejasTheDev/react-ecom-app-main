@@ -74,10 +74,10 @@
         },
         {
             "id": "9",
-            "name": "Wheat",
-            "image": "https://5.imimg.com/data5/PI/VL/MY-66556936/royal-wheat-500x500.jpg",
+            "name": "Rice",
+            "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/507936866/f936391e-9328-4690-887e-d327ffc0a433/29040a0e-90c3-4c63-9705-387fdb7384d8/1800x1012/match/image.jpg",
             "category": "comics",
-            "newPrice": 68,
+            "newPrice": 56,
             "rating": 2.5,
             "isInStock": true
         }

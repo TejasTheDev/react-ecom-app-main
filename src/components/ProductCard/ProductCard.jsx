@@ -1,9 +1,7 @@
-
 import "./ProductCard.css";
 import { useCart } from "../../context/cart-context";
 import { getProductById } from "../../utils/findProductInCart";
 import { useNavigate } from "react-router-dom";
-
 export const ProductCard = ({product}) => {
 
     const { id, name, image, newPrice, rating} = product

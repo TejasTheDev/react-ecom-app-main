@@ -4,6 +4,8 @@ import { Fragment, useEffect, useState } from "react";
 import axios from "axios";
 import "./Home.css";
 import { useCart } from "../../context/cart-context";
+import LandingPage from "../../components/LandingPage/LandingPage";
+import Category from "../../components/Category/Category";
 
 export const Home = () => {
 
@@ -24,16 +26,16 @@ export const Home = () => {
             }
         })()
     }, [])
-
     return (
         <Fragment>
             <Navbar />
+            <LandingPage/>
+            <Category/>
             <main className="main d-flex gap wrap">
             {
                 products.map(product => <ProductCard key={product.id} product={product}/>)
             }
             </main>
-            
         </Fragment>
         
 
