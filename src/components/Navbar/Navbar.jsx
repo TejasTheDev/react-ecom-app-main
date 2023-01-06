@@ -8,8 +8,8 @@ export const Navbar = () => {
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
             <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"/>
     <div className="heading-title-icon d-flex grow-shrink-basis align-center">
-        <h1 className="heading-title" >
-            <Link to="/" className="link cursor" style={{textDecoration:"none", color: 'black' }}><img src={image} alt="Farmers-Hub" srcset="" className="image-icon"/>FARMERS-HUB</Link>           
+        <h1 className="heading-title">
+            <Link to="/" className="link cursor">Formers_Hub</Link>           
         </h1>
     </div>
     <nav className="navigation">
