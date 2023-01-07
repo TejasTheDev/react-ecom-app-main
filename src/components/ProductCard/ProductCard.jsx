@@ -43,7 +43,7 @@ export const ProductCard = ({product}) => {
                </p>
           </div>
           <div class="cta-btn">
-               <button class="button btn-primary btn-icon cart-btn d-flex align-center justify-center gap cursor btn-margin" onClick={ isProductInCart ? handleGoToCartClick : handleAddToCartClick}>
+               <button class="button btn-warning btn-icon cart-btn d-flex align-center justify-center gap cursor btn-margin" onClick={ isProductInCart ? handleGoToCartClick : handleAddToCartClick}>
                     {isProductInCart ? "Go To Cart" : "Add To Cart"}
                </button>
           </div>
